@@ -1,6 +1,6 @@
 # initial_git
-one of my initial git repositories
+local_repository tracking
 <br>
 author: Mr.atul ekbote
 <br>
-next change
+change on branch secondbranch
